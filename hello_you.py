@@ -1,1 +1,1 @@
-print("today is a rainy day")
+print("I love coding and testing")
